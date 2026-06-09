@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Chroma vector store cache
+.cache/
+
+# Remotion — node_modules is huge; src/ and public/ are generated at runtime
+remotion-project/node_modules/
+remotion-project/src/
+remotion-project/public/
+remotion-project/render-tmp/
+
+# Output videos (large binaries — include only sample_output/)
+output/
+
+# OS
+.DS_Store
+Thumbs.db

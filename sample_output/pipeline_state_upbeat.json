@@ -1,0 +1,225 @@
+{
+  "images_dir": "photos",
+  "raw_prompt": "Cinematic wedding reel, slow and emotional, warm tones",
+  "intent": {
+    "pacing": "slow",
+    "visual_style": "cinematic",
+    "caption_tone": "emotional",
+    "transition_preference": "fade",
+    "color_mood": "warm",
+    "raw_prompt": "Cinematic wedding reel, slow and emotional, warm tones"
+  },
+  "image_analyses": [
+    {
+      "image_path": "photos/_ASL9923.jpg",
+      "description": "A newly married Indian couple standing outdoors in a lush, green environment. The groom is wearing a light mint-green sherwani and turban, while the bride is wearing a detailed white and floral lehenga with a pink dupatta. They are looking at each other, reflecting a romantic, joyful mood.",
+      "dominant_colors": [
+        "#A8B9B0",
+        "#D8D2C8",
+        "#E6C8C8",
+        "#465147"
+      ],
+      "mood": "romantic, joyful, serene",
+      "people_present": true,
+      "scene_type": "portrait",
+      "moondream_caption": "A beautiful Indian bride and groom standing in an outdoor garden setting, dressed in traditional wedding attire, looking lovingly at one another.",
+      "moondream_objects": [
+        "groom",
+        "bride",
+        "sherwani",
+        "turban",
+        "lehenga",
+        "dupatta",
+        "necklace",
+        "bangles",
+        "flowers",
+        "trees"
+      ]
+    },
+    {
+      "image_path": "photos/_ASL9969.jpg",
+      "description": "A romantic portrait of an Indian bride and groom dressed in traditional wedding attire outdoors.",
+      "dominant_colors": [
+        "#99a9a3",
+        "#d1cbbd",
+        "#3d3b36"
+      ],
+      "mood": "Romantic, serene, intimate",
+      "people_present": true,
+      "scene_type": "portrait",
+      "moondream_caption": "A groom wearing a sage green turban and cream-colored sherwani kisses his bride, who is dressed in a heavily embroidered cream and floral lehenga with traditional jewelry, standing in a soft-focus outdoor setting.",
+      "moondream_objects": [
+        "groom",
+        "bride",
+        "turban",
+        "sherwani",
+        "lehenga",
+        "necklace",
+        "bangles",
+        "jewelry"
+      ]
+    },
+    {
+      "image_path": "photos/_ASL9971.jpg",
+      "description": "A romantic portrait of an Indian couple dressed in traditional wedding attire, with the groom kissing the bride's forehead amidst a soft-focus outdoor garden setting.",
+      "dominant_colors": [
+        "#8F9E99",
+        "#D8C9C4",
+        "#3C3A35",
+        "#A57C8A"
+      ],
+      "mood": "Romantic, serene, elegant",
+      "people_present": true,
+      "scene_type": "portrait",
+      "moondream_caption": "A man and a woman in traditional Indian wedding attire stand together in a lush green outdoor setting, the man gently kissing the woman's forehead as she smiles.",
+      "moondream_objects": [
+        "groom",
+        "bride",
+        "sherwani",
+        "lehenga",
+        "turban",
+        "jewelry",
+        "henna",
+        "trees"
+      ]
+    },
+    {
+      "image_path": "photos/_ASL9976.jpg",
+      "description": "A close-up, romantic portrait of an Indian couple during their wedding day, with the groom kissing the bride on the forehead while she smiles with eyes closed, wearing traditional ornate attire.",
+      "dominant_colors": [
+        "#A8B0A5",
+        "#D9D1C5",
+        "#594B44"
+      ],
+      "mood": "Romantic, intimate, serene",
+      "people_present": true,
+      "scene_type": "portrait",
+      "moondream_caption": "A tender moment between an Indian bride and groom, with the groom wearing a sage green turban and ivory sherwani, and the bride dressed in a heavily embroidered floral lehenga, both adorned with traditional jewelry.",
+      "moondream_objects": [
+        "man",
+        "woman",
+        "turban",
+        "sherwani",
+        "lehenga",
+        "necklace",
+        "earrings",
+        "mangalsutra",
+        "flowers"
+      ]
+    },
+    {
+      "image_path": "photos/_ASL9984.jpg",
+      "description": "A portrait of an Indian bride and groom dressed in traditional wedding attire, sitting close together and smiling at each other.",
+      "dominant_colors": [
+        "#c1c4ba",
+        "#a49b8a",
+        "#59554b"
+      ],
+      "mood": "romantic and intimate",
+      "people_present": true,
+      "scene_type": "portrait",
+      "moondream_caption": "An Indian couple in traditional wedding attire sitting together in an intimate pose, the man wearing a cream-colored sherwani with a matching turban and the woman in an ornate, pastel-toned lehenga with floral patterns and a flower-adorned hairstyle.",
+      "moondream_objects": [
+        "groom",
+        "bride",
+        "turban",
+        "lehenga",
+        "sherwani",
+        "pearl necklace",
+        "flower hair accessory",
+        "henna tattoos",
+        "plant"
+      ]
+    }
+  ],
+  "storyboard": {
+    "title": "A Union of Hearts",
+    "total_duration_seconds": 25.0,
+    "scenes": [
+      {
+        "scene_index": 0,
+        "image_path": "photos/_ASL9923.jpg",
+        "duration_seconds": 5.0,
+        "caption": "where our story begins",
+        "transition_in": "none",
+        "transition_out": "fade",
+        "animation": "slow zoom-in"
+      },
+      {
+        "scene_index": 1,
+        "image_path": "photos/_ASL9969.jpg",
+        "duration_seconds": 5.0,
+        "caption": "two souls, one heartbeat",
+        "transition_in": "fade",
+        "transition_out": "fade",
+        "animation": "slow pan left"
+      },
+      {
+        "scene_index": 2,
+        "image_path": "photos/_ASL9984.jpg",
+        "duration_seconds": 5.0,
+        "caption": "a promise held in a smile",
+        "transition_in": "fade",
+        "transition_out": "fade",
+        "animation": "slow zoom-in"
+      },
+      {
+        "scene_index": 3,
+        "image_path": "photos/_ASL9971.jpg",
+        "duration_seconds": 5.0,
+        "caption": "cherishing this quiet grace",
+        "transition_in": "fade",
+        "transition_out": "fade",
+        "animation": "slow pan right"
+      },
+      {
+        "scene_index": 4,
+        "image_path": "photos/_ASL9976.jpg",
+        "duration_seconds": 5.0,
+        "caption": "forever starts today",
+        "transition_in": "fade",
+        "transition_out": "fade",
+        "animation": "slow zoom-in"
+      }
+    ],
+    "narrative_arc": "Beginning: Introduction of the couple in a lush setting; Middle: Deepening intimacy and connection; End: Final tender moment symbolizing their enduring commitment."
+  },
+  "remotion_script": "import React from 'react';\nimport {\n  AbsoluteFill,\n  Img,\n  Series,\n  Audio,\n  useCurrentFrame,\n  interpolate,\n  staticFile,\n  registerRoot,\n  Composition,\n} from 'remotion';\n\ninterface SceneProps {\n  image: string;\n  caption: string;\n  audio: string;\n  duration: number;\n}\n\nconst Scene: React.FC<SceneProps> = ({ image, caption, audio, duration }) => {\n  const frame = useCurrentFrame();\n\n  const opacity = interpolate(frame, [0, 20], [0, 1], {\n    extrapolateLeft: 'clamp',\n    extrapolateRight: 'clamp',\n  });\n\n  const scale = interpolate(frame, [0, duration], [1, 1.04], {\n    extrapolateLeft: 'clamp',\n    extrapolateRight: 'clamp',\n  });\n\n  return (\n    <AbsoluteFill>\n      <Img\n        src={staticFile(image)}\n        style={{\n          width: '100%',\n          height: '100%',\n          objectFit: 'cover',\n          filter: 'blur(24px) brightness(0.45) saturate(1.2)',\n          transform: 'scale(1.08)',\n          position: 'absolute',\n        }}\n      />\n      <AbsoluteFill\n        style={{\n          display: 'flex',\n          justifyContent: 'center',\n          alignItems: 'center',\n        }}\n      >\n        <Img\n          src={staticFile(image)}\n          style={{\n            maxWidth: '100%',\n            maxHeight: '100%',\n            objectFit: 'contain',\n            position: 'relative',\n            zIndex: 1,\n            opacity,\n            transform: `scale(${scale})`,\n          }}\n        />\n      </AbsoluteFill>\n      <div\n        style={{\n          position: 'absolute',\n          bottom: '8%',\n          width: '80%',\n          left: '10%',\n          textAlign: 'center',\n          color: 'white',\n          fontFamily: 'serif',\n          fontSize: '48px',\n          opacity,\n        }}\n      >\n        {caption}\n      </div>\n      <Audio\n        src={staticFile(audio)}\n        startFrom={0}\n        volume={(f) =>\n          interpolate(\n            f,\n            [0, 8, duration - 15, duration],\n            [0, 1, 1, 0],\n            { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }\n          )\n        }\n      />\n    </AbsoluteFill>\n  );\n};\n\nexport const MyComposition: React.FC = () => {\n  return (\n    <AbsoluteFill>\n      <Series>\n        <Series.Sequence durationInFrames={150}>\n          <Scene\n            image=\"_ASL9923.jpg\"\n            caption=\"where our story begins\"\n            audio=\"audio/scene_0.mp3\"\n            duration={150}\n          />\n        </Series.Sequence>\n        <Series.Sequence durationInFrames={150}>\n          <Scene\n            image=\"_ASL9969.jpg\"\n            caption=\"two souls, one heartbeat\"\n            audio=\"audio/scene_1.mp3\"\n            duration={150}\n          />\n        </Series.Sequence>\n        <Series.Sequence durationInFrames={150}>\n          <Scene\n            image=\"_ASL9984.jpg\"\n            caption=\"a promise held in a smile\"\n            audio=\"audio/scene_2.mp3\"\n            duration={150}\n          />\n        </Series.Sequence>\n        <Series.Sequence durationInFrames={150}>\n          <Scene\n            image=\"_ASL9971.jpg\"\n            caption=\"cherishing this quiet grace\"\n            audio=\"audio/scene_3.mp3\"\n            duration={150}\n          />\n        </Series.Sequence>\n        <Series.Sequence durationInFrames={150}>\n          <Scene\n            image=\"_ASL9976.jpg\"\n            caption=\"forever starts today\"\n            audio=\"audio/scene_4.mp3\"\n            duration={150}\n          />\n        </Series.Sequence>\n      </Series>\n    </AbsoluteFill>\n  );\n};\n\nconst MyRoot: React.FC = () => {\n  return (\n    <Composition\n      id=\"MyComposition\"\n      component={MyComposition}\n      durationInFrames={750}\n      fps={30}\n      width={1920}\n      height={1080}\n    />\n  );\n};\n\nregisterRoot(MyRoot);",
+  "compile_result": {
+    "success": true,
+    "error_message": null,
+    "error_type": null,
+    "attempt_number": 1
+  },
+  "retry_count": 1,
+  "max_retries": 3,
+  "nanobanana_job": {
+    "job_id": "unknown",
+    "status": "failed",
+    "video_url": null,
+    "error": "[Errno 11001] getaddrinfo failed",
+    "poll_interval_seconds": 5,
+    "max_poll_attempts": 60
+  },
+  "final_video_path": "D:\\fotoowl\\fotoowl-pipeline\\output\\video_20260609_202211.mp4",
+  "error_report": null,
+  "rag_context": {
+    "storyboard": [
+      "Style: corporate_highlights\nPacing: Medium, professional (2\u20134 seconds per scene). Deliberate and polished.\nColor Treatment: Clean, neutral color palette. Slight blue-teal grade.\n  Avoid oversaturation. Keep skin tones accurate and professional.\nCaption Style: Professional, sentence-case with company branding in mind.\n  Example: \"Q3 Product Launch\" or \"Team Excellence Award 2024.\"\nTransition Preference: Clean slides (left-to-right) or subtle fades.\n  Consistent transition direction throughout the video.\nAnimation Style: Slide-in animations for text overlays. Smooth linear easing.\n  Lower-third style captions with background bar.\nNarrative Arc: Opening brand moment \u2192 key milestones \u2192 team recognition \u2192 CTA.\nMusic Suggestion: Ambient corporate, light electronic, or soft orchestral.",
+      "Style: minimal_clean\nPacing: Slow to medium (3\u20135 seconds per scene). Intentional breathing room.\nColor Treatment: Desaturated, near-monochrome with one accent color.\n  High-key lighting, clean whites, and airy aesthetics.\nCaption Style: Thin sans-serif font, small size. Lowercase, no punctuation.\n  Example: \"light and shadow\" or \"a quiet afternoon.\"\nTransition Preference: Simple fade to white or pure cut. No flashy effects.\n  Consistency is more important than variety.\nAnimation Style: Ultra-subtle opacity fade or slow horizontal drift.\n  Avoid any scale or rotation animations.\nNarrative Arc: Single mood or concept across all scenes. No strong arc.\nMusic Suggestion: Ambient drone, lo-fi, or silence with occasional sound design.",
+      "Style: cinematic_wedding\nPacing: Slow, lingering shots (4\u20136 seconds per scene). Allow emotions to breathe.\nColor Treatment: Warm, golden-hour tones with slight desaturation on shadows.\n  Use LUT-style color grading: lifted blacks, peachy highlights.\nCaption Style: Minimal, italic lowercase captions. Emotional, poetic language.\n  Example: \"forever begins here\" or \"two families, one love.\"\nTransition Preference: Slow dissolves (fade) and occasional dip-to-white.\n  Avoid hard cuts unless emphasizing a vow moment.\nAnimation Style: Subtle Ken Burns (slow zoom-in or pan) on still images.\n  Prefer ease-in-out interpolation. No aggressive motion.\nNarrative Arc: Build from quiet arrival \u2192 intimate ceremony \u2192 joyful celebration.\nMusic Suggestion: Orchestral strings, piano, or acoustic guitar."
+    ],
+    "script_generator": [
+      "// useCurrentFrame and interpolate: animate a value over time\nimport { useCurrentFrame, interpolate } from \"remotion\";\n\nexport const FadeInText: React.FC = () => {\n  const frame = useCurrentFrame();\n  // Fade from 0 to 1 between frames 0 and 20\n  const opacity = interpolate(frame, [0, 20], [0, 1], {\n    extrapolateLeft: \"clamp\",\n    extrapolateRight: \"clamp\",\n  });\n  return <div style={{ opacity }}>Hello, World!</div>;\n};\n// useCurrentFrame() returns the current frame number (starts at 0).\n// interpolate() maps an input range to an output range linearly.\n",
+      "// Series: compose sequential scenes without manual frame math\nimport { Series } from \"remotion\";\n\nexport const SlideShow: React.FC = () => (\n  <AbsoluteFill>\n    <Series>\n      {/* Each child auto-starts after the previous one ends */}\n      <Series.Sequence durationInFrames={90}>\n        <Scene1 />\n      </Series.Sequence>\n      <Series.Sequence durationInFrames={60}>\n        <Scene2 />\n      </Series.Sequence>\n      <Series.Sequence durationInFrames={120}>\n        <Scene3 />\n      </Series.Sequence>\n    </Series>\n  </AbsoluteFill>\n);\n// Series is the recommended way to build slide-show style compositions.\n// Total duration = sum of all durationInFrames values.\n",
+      "// Sequence: render a child component starting at a specific frame\nimport { Sequence } from \"remotion\";\n\nexport const MyComposition: React.FC = () => (\n  <AbsoluteFill>\n    {/* Scene 1 starts at frame 0 and lasts 90 frames (3 s at 30 fps) */}\n    <Sequence from={0} durationInFrames={90}>\n      <Scene1 />\n    </Sequence>\n    {/* Scene 2 starts at frame 90 and lasts 60 frames (2 s) */}\n    <Sequence from={90} durationInFrames={60}>\n      <Scene2 />\n    </Sequence>\n  </AbsoluteFill>\n);\n// 'from' is the absolute start frame; 'durationInFrames' limits rendering.\n// useCurrentFrame() inside a Sequence resets to 0 at its start frame.\n"
+    ]
+  },
+  "audio_paths": [
+    "audio/scene_0.mp3",
+    "audio/scene_1.mp3",
+    "audio/scene_2.mp3",
+    "audio/scene_3.mp3",
+    "audio/scene_4.mp3"
+  ]
+}

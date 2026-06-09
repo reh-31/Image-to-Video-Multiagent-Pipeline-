@@ -1,0 +1,52 @@
+{
+  "title": "A Union of Hearts",
+  "total_duration_seconds": 25.0,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "image_path": "photos/_ASL9923.jpg",
+      "duration_seconds": 5.0,
+      "caption": "where our story begins",
+      "transition_in": "none",
+      "transition_out": "fade",
+      "animation": "slow zoom-in"
+    },
+    {
+      "scene_index": 1,
+      "image_path": "photos/_ASL9969.jpg",
+      "duration_seconds": 5.0,
+      "caption": "two souls, one heartbeat",
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "animation": "slow pan left"
+    },
+    {
+      "scene_index": 2,
+      "image_path": "photos/_ASL9984.jpg",
+      "duration_seconds": 5.0,
+      "caption": "a promise held in a smile",
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "animation": "slow zoom-in"
+    },
+    {
+      "scene_index": 3,
+      "image_path": "photos/_ASL9971.jpg",
+      "duration_seconds": 5.0,
+      "caption": "cherishing this quiet grace",
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "animation": "slow pan right"
+    },
+    {
+      "scene_index": 4,
+      "image_path": "photos/_ASL9976.jpg",
+      "duration_seconds": 5.0,
+      "caption": "forever starts today",
+      "transition_in": "fade",
+      "transition_out": "fade",
+      "animation": "slow zoom-in"
+    }
+  ],
+  "narrative_arc": "Beginning: Introduction of the couple in a lush setting; Middle: Deepening intimacy and connection; End: Final tender moment symbolizing their enduring commitment."
+}
