@@ -23,8 +23,6 @@ remotion-project/remotion-project/
 0.7.0
 0.7.0python
 
-# Output videos (large binaries — include only sample_output/)
-output/
 
 # OS
 .DS_Store
