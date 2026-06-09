@@ -17,6 +17,11 @@ remotion-project/node_modules/
 remotion-project/src/
 remotion-project/public/
 remotion-project/render-tmp/
+remotion-project/remotion-project/
+
+# Stray pip version files
+0.7.0
+0.7.0python
 
 # Output videos (large binaries — include only sample_output/)
 output/
