@@ -1,4 +1,4 @@
-# FotoOwl AI — Image-to-Video Pipeline
+# Image-to-Video Pipeline
 
 A multiagent pipeline that turns a directory of photos and a text prompt into a
 rendered video using **LangGraph**, **RAG (Chroma + sentence-transformers)**,
